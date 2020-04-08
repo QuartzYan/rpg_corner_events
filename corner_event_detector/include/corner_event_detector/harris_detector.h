@@ -36,8 +36,8 @@ private:
   int queue_size_;
   int window_size_;
   int kernel_size_;
-  static const int sensor_width_ = 240;
-  static const int sensor_height_ = 180;
+  static const int sensor_width_ = 346;
+  static const int sensor_height_ = 260;
   double harris_threshold_;
 
   double last_score_;
