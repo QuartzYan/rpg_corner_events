@@ -29,8 +29,8 @@ private:
   int circle4_[20][2];
 
   // parameters
-  static const int sensor_width_ = 240;
-  static const int sensor_height_ = 180;
+  static const int sensor_width_ = 346;
+  static const int sensor_height_ = 260;
 };
 
 
